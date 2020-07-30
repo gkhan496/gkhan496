@@ -1,1 +1,1 @@
-![](yeshack.gif)
+![c](yeshack.gif)
